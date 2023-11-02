@@ -1,0 +1,86 @@
+.tophead{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: white;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+    align-items: center;
+    justify-content: center;
+}
+.navbar{
+width: 40%;
+    display: flex;
+    justify-content: space-between;
+}
+.section2{
+    background-image: url(./assets/rectangle-48.png);
+    margin: -8px;
+    height: 619px;
+    align-items: center;
+    color: white;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.firstbtn, .secondbtn{
+    width: 95px;
+    height: 40px;
+    border-radius: 17px;
+    color: white;
+}
+.secondbtn{
+    background: none;
+    opacity: 0.8;
+    font-weight: bold;
+}
+.firstbtn{
+    background: orangered;
+}
+.phoneimage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -15%;
+}
+.firstphone{
+    margin-top: -12%;
+}
+.line{
+    font-weight: bolder;
+    margin-top: -7%;
+}
+.thirdsection{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -12%;
+}
+.fourthsection{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -25%;
+}
+.lastsection{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -20%;
+}
+.firstfoot{
+    background-image: url(./assets/rectangle-47.png);
+    align-items: center;
+    color: white;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    margin: -8px;
+}
+.lastfoot{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
